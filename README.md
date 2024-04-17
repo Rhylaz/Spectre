@@ -1,5 +1,5 @@
 # Spectre
-Spectre is an advanced OSINT (Open-Source Intelligence) tool developed by for information gathering. It employs unconventional methods to scrape publicly available information from various online sources, including social media networks and forums.
+Spectre is an advanced OSINT (Open-Source Intelligence) tool developed for information gathering. It employs unconventional methods to scrape publicly available information from various online sources, including social media networks and forums.
 
 ## Key Features
 Unconventional Data Scraping:
